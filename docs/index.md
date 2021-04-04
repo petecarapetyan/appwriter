@@ -1,23 +1,63 @@
 ---
-title: appWriter
-slogan: a lorem-ipsum site (for the moment)
+title: appwriter.com
+layout: layout-home
+feature:
+  title: pariatur reprehenderit magna reprehenderit ex
+  text: >-
+    In tempor aliquip tempor eiusmod reprehenderit laboris dolor irure laborum
+    sint non. Nulla nulla nostrud sunt irure sit excepteur deserunt irure velit
+    nulla. Laboris esse id qui quis velit cupidatat. Ea esse mollit magna id
+    fugiat labore quis exercitation consectetur id do. Quis velit veniam elit.
+    Incididunt ipsum esse ipsum ad eiusmod elit aliqua occaecat laborum occaecat
+    ad.
+  href: /dolor-nostrud/nostrud-nisi/
+  img: >-
+    <img class="bordered"
+    src="/_merged_assets/_static/images/bulksplash-dustintramel-f25N4N-kNc8.jpg"
+    alt="bulksplash-dustintramel-f25N4N-kNc8.jpg" />
+
+teasers:
+  - title: labore sit sit eu labore
+    text: >-
+      Veniam nostrud reprehenderit et aute Lorem quis esse tempor. Sint fugiat
+      laboris sit dolore proident fugiat elit consectetur. Minim ea duis fugiat
+      dolor.
+    href: /lorem-eiusmod/
+    img: >-
+      <img class="bordered"
+      src="/_merged_assets/_static/images/bulksplash-lackingnothing-jOjZncMBfa4.jpg"
+      alt="bulksplash-lackingnothing-jOjZncMBfa4.jpg" />
+  - title: amet nostrud eu
+    text: Sunt qui laboris aute ut eu eiusmod aliqua.
+    href: /lorem-eiusmod/duis-dolor/
+    img: >-
+      <img class="bordered"
+      src="/_merged_assets/_static/images/bulksplash-jxk-ixPgwVRofcQ.jpg"
+      alt="bulksplash-jxk-ixPgwVRofcQ.jpg" />
+  - title: aute dolore cillum fugiat
+    text: >-
+      Exercitation et veniam minim. Sunt esse sit amet qui consequat nostrud
+      laborum enim minim consectetur ut sunt.
+    href: /lorem-eiusmod/mollit/
+    img: >-
+      <img class="bordered"
+      src="/_merged_assets/_static/images/bulksplash-jxk-ixPgwVRofcQ.jpg"
+      alt="bulksplash-jxk-ixPgwVRofcQ.jpg" />
+  - title: qui sit id cillum
+    text: >-
+      Deserunt duis est minim irure do quis dolore duis aute voluptate sunt
+      mollit veniam. Fugiat veniam culpa culpa cupidatat dolore sunt veniam
+      eiusmod officia amet in nulla officia velit. Ipsum est officia ut laboris
+      laborum id reprehenderit incididunt do ut do et.
+    href: /ullamco/
+    img: >-
+      <img class="bordered"
+      src="/_merged_assets/_static/images/bulksplash-philplnt-X2PwqTUpXH8.jpg"
+      alt="bulksplash-philplnt-X2PwqTUpXH8.jpg" />
 ---
 
-This is a **lorem-ipsum site. All content is fluff**, to give the theme layout something to display.
+# Lorem Ipsum Site
 
-Even the [theme itself](https://webappwriter.com/rocket-themes/all/thumbnails/#not-npr-theme) is mostly neglected, as time is being split between other themes and projects.
+This is currently a Lorem Ipsum site.
 
-## Background
-
-This domain had been live for a years, under 3 different content versions.
-
-Eventually, previous iterations would be merged into this new site, and all will be peachy.
-
-[**webAppWriter.com**](https://webappwriter.com) is getting all the new content, at this time.
-
-## More Lorem Ipsum
-
-Exercitation occaecat veniam ipsum nisi Lorem. Voluptate incididunt pariatur laborum aute laborum dolore non. Voluptate nulla ullamco reprehenderit laborum irure quis ad et ullamco. Laboris anim reprehenderit consequat voluptate nostrud deserunt minim voluptate nulla nulla sint nostrud. Aliqua eu officia ipsum ex mollit amet exercitation ullamco reprehenderit amet minim elit. Sunt ex dolore consectetur culpa et esse irure deserunt qui eiusmod nostrud aute nulla velit. Tempor eiusmod nostrud dolor consequat dolore culpa pariatur ipsum qui eiusmod eu et. Reprehenderit nostrud dolor minim dolore amet qui quis exercitation tempor ex aute sit aliqua consequat excepteur.
-
-Ad anim amet proident fugiat non aliquip id sunt incididunt eu dolore tempor veniam aute consequat. Aliquip nisi elit in. In tempor sit nulla. Amet ut consectetur consectetur minim laboris. Anim culpa anim labore exercitation nisi sunt aliqua. Qui nostrud cillum eiusmod esse magna ad deserunt dolor qui esse.
-
+Previous content will be restored, one day. Maybe.

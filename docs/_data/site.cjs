@@ -2,8 +2,8 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'appWriter',
-    description: 'exploring apps as standards based browser clients',
+    name: 'appwriter.org',
+    description: 'appwriter.com Lorem Ipsum (fake) site',
     socialLinks: [
       {
         name: 'GitHub',
