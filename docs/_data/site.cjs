@@ -2,7 +2,7 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'appwriter.org',
+    name: 'appwriter.com',
     description: 'appwriter.com Lorem Ipsum (fake) site',
     socialLinks: [
       {
