@@ -3,11 +3,11 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'appwriter.com',
-    description: 'appwriter.com Lorem Ipsum (fake) site',
+    description: 'not-npr is a customizeable theme, for the Rocket SSG',
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/petecarapetyan/appwriter',
+        url: 'https://github.com/petecarapetyan/rocket-themes/tree/main/not-appwriter/src/docs',
       },
     ],
     gitSiteUrl: 'https://github.com/petecarapetyan/appwriter',
