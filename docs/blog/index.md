@@ -2,7 +2,7 @@
 layout: layout-blog-overview
 eleventyNavigation:
   key: Blog
-  order: 70
+  order: 30
 pagination:
   data: collections.blog
   size: 10
@@ -10,6 +10,6 @@ pagination:
   alias: posts
 ---
 
-# Appwriter Blog
+# Rocket Blog
 
-Most of this content is aging severely by now
+Discover articles from the core team and contributors about Rocket, tips and tricks included!

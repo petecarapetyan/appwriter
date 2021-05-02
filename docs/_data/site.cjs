@@ -3,7 +3,7 @@ module.exports = function () {
     dir: 'ltr',
     lang: 'en',
     name: 'appwriter.com',
-    description: 'not-npr is a customizeable theme, for the Rocket SSG',
+    description: 'appWriter is an inbetween site - half theme demo, other half emerging restoration of previous site',
     socialLinks: [
       {
         name: 'GitHub',
@@ -18,5 +18,7 @@ module.exports = function () {
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
     socialMediaImage: '/_assets/social-media-image.jpg',
+    analyticsUA: 'UA-52870008-6',
+    analyticsGA4: 'G-YHGWBCSQTR'
   };
 };
