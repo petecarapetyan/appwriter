@@ -3,7 +3,7 @@ docs/_merged_data/
 docs/_merged_assets/
 docs/_merged_includes/
 _site/
-_site-dev
+_site-dev/
 
 #firebase
 .firebase
