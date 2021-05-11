@@ -1,4 +1,9 @@
 
+
+#main-header .logo-link span {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .navOne {
   display: block;
   height: 30px;

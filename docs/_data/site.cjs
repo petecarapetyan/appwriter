@@ -2,7 +2,7 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'appwriter.com',
+    name: 'Home',
     description: 'appWriter is an inbetween site - half theme demo, other half emerging restoration of previous site',
     socialLinks: [
       {

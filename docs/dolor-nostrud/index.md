@@ -1,4 +1,6 @@
-# Nostrud || 10
+# Nos || 10
+
+## Dolor Nostrud
 
 <img class="bordered" src="/_merged_assets/_static/images/bulksplash-daoud_abismail-5DKFHoEJv-4.jpg" alt="bulksplash-daoud_abismail-5DKFHoEJv-4.jpg" />
 
